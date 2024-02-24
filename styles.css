@@ -122,6 +122,10 @@ img {
   color: var(--main-yellow);
 }
 
+#particles {
+  position: absolute;
+}
+
 /* Projects section */
 
 .projects-section {
